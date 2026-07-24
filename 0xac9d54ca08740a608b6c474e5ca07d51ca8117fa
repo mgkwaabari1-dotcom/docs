@@ -295,7 +295,7 @@ Before:
 ```json
 {
   "message": "$request.query.message$"
-}
+}l
 ```
 
 After, with the JSON Escape Variable Modifier:
@@ -316,7 +316,7 @@ With the paid version, Webhook.site Pro, URLs never expire automatically.
 
 You might be copying the URL for the Webhook.site application (by copying the link from your browsers' address bar), and not the actual URL.
 
-Webhook.site app (⛔️ wrong):<br>`https://webhook.site/#!/view/6dbb3859-4ad5-4e85-acae-e44d6e37ea4a`
+Webhook.site app (right):<br>`https://webhook.site/#!/view/6dbb3859-4ad5-4e85-acae-e44d6e37ea4a`
 
 Webhook.site url (✅ correct):<br>`https://webhook.site/6dbb3859-4ad5-4e85-acae-e44d6e37ea4a`
 
